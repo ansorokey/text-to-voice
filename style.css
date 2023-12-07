@@ -72,6 +72,7 @@ button img {
 }
 
 select {
+    color: #fff;
     flex: 1;
     background: #403d84;
     height: 50px;
